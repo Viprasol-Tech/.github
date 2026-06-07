@@ -26,9 +26,10 @@
 | Project | What it does |
 |---------|--------------|
 | **[edgehunt](https://github.com/Viprasol-Tech/edgehunt)** | Find the edge in prediction markets — cross-venue **arbitrage**, fee-adjusted **EV** & **Kelly** sizing, in one command (Kalshi + Polymarket). |
+| **[marketsmith](https://github.com/Viprasol-Tech/marketsmith)** | **MCP server** that gives any AI agent an edge in prediction markets — search, odds, arbitrage, EV. |
+| **[agentcheck](https://github.com/Viprasol-Tech/agentcheck)** | **Regression testing for AI agents** — snapshot tool-calls, diff in CI, fail on regressions. A GitHub Action. |
+| **[tripwire](https://github.com/Viprasol-Tech/tripwire)** | **Runtime MCP security** — block tool-poisoning and silent tool drift (rug-pulls) before they hijack your agent. |
 | **[kalshi-trading-bot](https://github.com/Viprasol-Tech/kalshi-trading-bot)** | Full Kalshi trading framework — RSA-PSS auth, strategies, backtester, risk manager. |
-| **[ai-trading-bot](https://github.com/Viprasol-Tech/ai-trading-bot)** | Broker-agnostic AI/ML signal-driven trading framework. |
-| **[crypto-trading-bot](https://github.com/Viprasol-Tech/crypto-trading-bot)** | Multi-exchange crypto bot — grid, DCA, momentum, breakout strategies. |
 
 > ⭐ **If our tools help you, a star means a lot** — it's how we know what to build next.
 
@@ -56,6 +57,9 @@
 [pine-script-strategy](https://github.com/Viprasol-Tech/pine-script-strategy)
 
 **🤖 AI & agents**
+[marketsmith](https://github.com/Viprasol-Tech/marketsmith) ·
+[agentcheck](https://github.com/Viprasol-Tech/agentcheck) ·
+[tripwire](https://github.com/Viprasol-Tech/tripwire) ·
 [ai-agent-framework](https://github.com/Viprasol-Tech/ai-agent-framework) ·
 [rag-pipeline](https://github.com/Viprasol-Tech/rag-pipeline) ·
 [semantic-search](https://github.com/Viprasol-Tech/semantic-search) ·
