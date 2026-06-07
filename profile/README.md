@@ -1,0 +1,91 @@
+<p align="center">
+  <img src="profile/logo.png" width="120" alt="Viprasol Tech">
+</p>
+
+<h1 align="center">Viprasol Tech</h1>
+
+<p align="center"><strong>Fintech Experts. Full-Stack Builders.</strong></p>
+
+<p align="center">
+  Open-source <strong>algorithmic trading</strong>, <strong>AI agents</strong>, and <strong>developer tooling</strong> —
+  from <a href="https://viprasol.com">viprasol.com</a>.
+</p>
+
+<p align="center">
+  <a href="https://viprasol.com">🌐 Website</a> &nbsp;·&nbsp;
+  <a href="mailto:support@viprasol.com">✉️ Email</a> &nbsp;·&nbsp;
+  <a href="https://t.me/viprasol_help">💬 Telegram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/viprasol/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/viprasol">𝕏 Twitter</a>
+</p>
+
+---
+
+## ⭐ Featured projects
+
+| Project | What it does |
+|---------|--------------|
+| **[edgehunt](https://github.com/Viprasol-Tech/edgehunt)** | Find the edge in prediction markets — cross-venue **arbitrage**, fee-adjusted **EV** & **Kelly** sizing, in one command (Kalshi + Polymarket). |
+| **[kalshi-trading-bot](https://github.com/Viprasol-Tech/kalshi-trading-bot)** | Full Kalshi trading framework — RSA-PSS auth, strategies, backtester, risk manager. |
+| **[ai-trading-bot](https://github.com/Viprasol-Tech/ai-trading-bot)** | Broker-agnostic AI/ML signal-driven trading framework. |
+| **[crypto-trading-bot](https://github.com/Viprasol-Tech/crypto-trading-bot)** | Multi-exchange crypto bot — grid, DCA, momentum, breakout strategies. |
+
+> ⭐ **If our tools help you, a star means a lot** — it's how we know what to build next.
+
+## 🧭 Explore by category
+
+**📈 Trading & quant**
+[edgehunt](https://github.com/Viprasol-Tech/edgehunt) ·
+[kalshi-trading-bot](https://github.com/Viprasol-Tech/kalshi-trading-bot) ·
+[ai-trading-bot](https://github.com/Viprasol-Tech/ai-trading-bot) ·
+[crypto-trading-bot](https://github.com/Viprasol-Tech/crypto-trading-bot) ·
+[ai-crypto-trading-bot](https://github.com/Viprasol-Tech/ai-crypto-trading-bot) ·
+[solana-trading-bot](https://github.com/Viprasol-Tech/solana-trading-bot) ·
+[stock-trading-bot](https://github.com/Viprasol-Tech/stock-trading-bot) ·
+[forex-trading-bot](https://github.com/Viprasol-Tech/forex-trading-bot) ·
+[options-trading-bot](https://github.com/Viprasol-Tech/options-trading-bot) ·
+[polymarket-trading-bot](https://github.com/Viprasol-Tech/polymarket-trading-bot) ·
+[binance-trading-bot](https://github.com/Viprasol-Tech/binance-trading-bot) ·
+[bybit-trading-bot](https://github.com/Viprasol-Tech/bybit-trading-bot) ·
+[grid-trading-bot](https://github.com/Viprasol-Tech/grid-trading-bot) ·
+[dca-bot](https://github.com/Viprasol-Tech/dca-bot) ·
+[crypto-arbitrage-bot](https://github.com/Viprasol-Tech/crypto-arbitrage-bot) ·
+[backtesting-python](https://github.com/Viprasol-Tech/backtesting-python) ·
+[trading-bot-framework](https://github.com/Viprasol-Tech/trading-bot-framework) ·
+[mt5-expert-advisor](https://github.com/Viprasol-Tech/mt5-expert-advisor) ·
+[pine-script-strategy](https://github.com/Viprasol-Tech/pine-script-strategy)
+
+**🤖 AI & agents**
+[ai-agent-framework](https://github.com/Viprasol-Tech/ai-agent-framework) ·
+[rag-pipeline](https://github.com/Viprasol-Tech/rag-pipeline) ·
+[semantic-search](https://github.com/Viprasol-Tech/semantic-search) ·
+[llm-chatbot-template](https://github.com/Viprasol-Tech/llm-chatbot-template) ·
+[openai-function-calling-example](https://github.com/Viprasol-Tech/openai-function-calling-example) ·
+[document-qa](https://github.com/Viprasol-Tech/document-qa) ·
+[ai-customer-support-bot](https://github.com/Viprasol-Tech/ai-customer-support-bot) ·
+[chatbot-widget](https://github.com/Viprasol-Tech/chatbot-widget)
+
+**⚛️ React & Next.js**
+[react-data-table](https://github.com/Viprasol-Tech/react-data-table) ·
+[react-kanban-board](https://github.com/Viprasol-Tech/react-kanban-board) ·
+[react-resizable-panels](https://github.com/Viprasol-Tech/react-resizable-panels) ·
+[react-virtualized-list](https://github.com/Viprasol-Tech/react-virtualized-list) ·
+[nextjs-saas-starter](https://github.com/Viprasol-Tech/nextjs-saas-starter) ·
+[shadcn-dashboard](https://github.com/Viprasol-Tech/shadcn-dashboard) ·
+[saas-admin-dashboard](https://github.com/Viprasol-Tech/saas-admin-dashboard)
+
+**🛠️ Backend & DevOps**
+[fastapi-boilerplate](https://github.com/Viprasol-Tech/fastapi-boilerplate) ·
+[nestjs-boilerplate](https://github.com/Viprasol-Tech/nestjs-boilerplate) ·
+[express-api-boilerplate](https://github.com/Viprasol-Tech/express-api-boilerplate) ·
+[websocket-server-nodejs](https://github.com/Viprasol-Tech/websocket-server-nodejs) ·
+[stripe-webhook-handler](https://github.com/Viprasol-Tech/stripe-webhook-handler) ·
+[rate-limiter](https://github.com/Viprasol-Tech/rate-limiter) ·
+[kubernetes-operator](https://github.com/Viprasol-Tech/kubernetes-operator) ·
+[terraform-module](https://github.com/Viprasol-Tech/terraform-module)
+
+---
+
+<p align="center">
+  <em>Need a custom trading system, AI agent, or full-stack build? <a href="mailto:support@viprasol.com">Let's talk →</a></em>
+</p>
