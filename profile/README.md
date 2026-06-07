@@ -60,6 +60,8 @@
 [marketsmith](https://github.com/Viprasol-Tech/marketsmith) ·
 [agentcheck](https://github.com/Viprasol-Tech/agentcheck) ·
 [tripwire](https://github.com/Viprasol-Tech/tripwire) ·
+[agentcost](https://github.com/Viprasol-Tech/agentcost) ·
+[bar-by-bar](https://github.com/Viprasol-Tech/bar-by-bar) ·
 [ai-agent-framework](https://github.com/Viprasol-Tech/ai-agent-framework) ·
 [rag-pipeline](https://github.com/Viprasol-Tech/rag-pipeline) ·
 [semantic-search](https://github.com/Viprasol-Tech/semantic-search) ·
