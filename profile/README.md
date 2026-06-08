@@ -29,6 +29,9 @@
 | **[marketsmith](https://github.com/Viprasol-Tech/marketsmith)** | **MCP server** that gives any AI agent an edge in prediction markets — search, odds, arbitrage, EV. |
 | **[agentcheck](https://github.com/Viprasol-Tech/agentcheck)** | **Regression testing for AI agents** — snapshot tool-calls, diff in CI, fail on regressions. A GitHub Action. |
 | **[tripwire](https://github.com/Viprasol-Tech/tripwire)** | **Runtime MCP security** — block tool-poisoning and silent tool drift (rug-pulls) before they hijack your agent. |
+| **[promptproof](https://github.com/Viprasol-Tech/promptproof)** | **Prompt-injection red-team test suite** — run 40 attacks against your guard and get a robustness score. Offline, no LLM calls. |
+| **[mcpforge](https://github.com/Viprasol-Tech/mcpforge)** | **OpenAPI → MCP server** — turn any API spec into agent tools in one command. |
+| **[semcache](https://github.com/Viprasol-Tech/semcache)** | **Zero-infra semantic cache** for LLM calls — return cached results for similar prompts and cut duplicate spend. |
 | **[kalshi-trading-bot](https://github.com/Viprasol-Tech/kalshi-trading-bot)** | Full Kalshi trading framework — RSA-PSS auth, strategies, backtester, risk manager. |
 
 > ⭐ **If our tools help you, a star means a lot** — it's how we know what to build next.
@@ -62,6 +65,9 @@
 [tripwire](https://github.com/Viprasol-Tech/tripwire) ·
 [agentcost](https://github.com/Viprasol-Tech/agentcost) ·
 [bar-by-bar](https://github.com/Viprasol-Tech/bar-by-bar) ·
+[promptproof](https://github.com/Viprasol-Tech/promptproof) ·
+[mcpforge](https://github.com/Viprasol-Tech/mcpforge) ·
+[semcache](https://github.com/Viprasol-Tech/semcache) ·
 [ai-agent-framework](https://github.com/Viprasol-Tech/ai-agent-framework) ·
 [rag-pipeline](https://github.com/Viprasol-Tech/rag-pipeline) ·
 [semantic-search](https://github.com/Viprasol-Tech/semantic-search) ·
