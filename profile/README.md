@@ -81,6 +81,7 @@
 [smart-contract-audit](https://github.com/Viprasol-Tech/smart-contract-audit) ·
 [tokenomics-review](https://github.com/Viprasol-Tech/tokenomics-review) ·
 [defi-protocol-review](https://github.com/Viprasol-Tech/defi-protocol-review) ·
+[wallet-security-review](https://github.com/Viprasol-Tech/wallet-security-review) ·
 [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review) ·
 [financial-statement-analysis](https://github.com/Viprasol-Tech/financial-statement-analysis) ·
 [earnings-call-analyzer](https://github.com/Viprasol-Tech/earnings-call-analyzer) ·
