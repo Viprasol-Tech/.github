@@ -77,10 +77,14 @@
 [ai-customer-support-bot](https://github.com/Viprasol-Tech/ai-customer-support-bot) ·
 [chatbot-widget](https://github.com/Viprasol-Tech/chatbot-widget)
 
-**🧩 Agent Skills** — portable skills that drop into Claude Code, Codex, Cursor & 26+ tools
+**🧩 Agent Skills** — portable fintech skills for Claude Code, Codex, Cursor & 26+ tools · **hub: [viprasol-agent-skills](https://github.com/Viprasol-Tech/viprasol-agent-skills)**
 [smart-contract-audit](https://github.com/Viprasol-Tech/smart-contract-audit) ·
+[tokenomics-review](https://github.com/Viprasol-Tech/tokenomics-review) ·
+[defi-protocol-review](https://github.com/Viprasol-Tech/defi-protocol-review) ·
 [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review) ·
 [financial-statement-analysis](https://github.com/Viprasol-Tech/financial-statement-analysis) ·
+[earnings-call-analyzer](https://github.com/Viprasol-Tech/earnings-call-analyzer) ·
+[invoice-extractor](https://github.com/Viprasol-Tech/invoice-extractor) ·
 [code-review-skill](https://github.com/Viprasol-Tech/code-review-skill)
 
 **⚛️ React & Next.js**
