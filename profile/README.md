@@ -85,6 +85,7 @@
 [onchain-forensics](https://github.com/Viprasol-Tech/onchain-forensics) ·
 [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review) ·
 [options-strategy-analyzer](https://github.com/Viprasol-Tech/options-strategy-analyzer) ·
+[risk-management-review](https://github.com/Viprasol-Tech/risk-management-review) ·
 [financial-statement-analysis](https://github.com/Viprasol-Tech/financial-statement-analysis) ·
 [earnings-call-analyzer](https://github.com/Viprasol-Tech/earnings-call-analyzer) ·
 [invoice-extractor](https://github.com/Viprasol-Tech/invoice-extractor) ·
