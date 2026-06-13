@@ -82,7 +82,9 @@
 [tokenomics-review](https://github.com/Viprasol-Tech/tokenomics-review) ·
 [defi-protocol-review](https://github.com/Viprasol-Tech/defi-protocol-review) ·
 [wallet-security-review](https://github.com/Viprasol-Tech/wallet-security-review) ·
+[onchain-forensics](https://github.com/Viprasol-Tech/onchain-forensics) ·
 [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review) ·
+[options-strategy-analyzer](https://github.com/Viprasol-Tech/options-strategy-analyzer) ·
 [financial-statement-analysis](https://github.com/Viprasol-Tech/financial-statement-analysis) ·
 [earnings-call-analyzer](https://github.com/Viprasol-Tech/earnings-call-analyzer) ·
 [invoice-extractor](https://github.com/Viprasol-Tech/invoice-extractor) ·
