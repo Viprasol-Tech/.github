@@ -90,7 +90,8 @@
 [earnings-call-analyzer](https://github.com/Viprasol-Tech/earnings-call-analyzer) ·
 [invoice-extractor](https://github.com/Viprasol-Tech/invoice-extractor) ·
 [code-review-skill](https://github.com/Viprasol-Tech/code-review-skill) ·
-[api-security-review](https://github.com/Viprasol-Tech/api-security-review)
+[api-security-review](https://github.com/Viprasol-Tech/api-security-review) ·
+[sql-optimizer](https://github.com/Viprasol-Tech/sql-optimizer)
 
 **⚛️ React & Next.js**
 [react-data-table](https://github.com/Viprasol-Tech/react-data-table) ·
